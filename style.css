@@ -9,15 +9,6 @@ text-align: center;
 margin: 50px 0;
 }
 
-.img-wrap {
-max-width: 1000px;
-margin: 0 auto;
-  
-}
-
-.img-wrap img {
-display: block;
-margin: 0 auto; 
-max-width: 100%;
-object-fit: cover;
+.image-container {
+  display: flex;
 }
