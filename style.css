@@ -11,4 +11,10 @@ margin: 50px 0;
 
 .image-container {
   display: flex;
+  max-width: 100%;
+}
+
+.image-container img {
+  max-width: 100%;
+  height: auto;
 }
