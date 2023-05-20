@@ -14,13 +14,13 @@
   justify-content: center; /* 画像を水平方向に中央寄せ */
   align-items: center; /* 画像を垂直方向に中央寄せ */
   flex-wrap: wrap; /* 画像が幅を超えた場合に折り返す */
-  max-width: 80%;
+  max-width: 100%;
 }
 
 .image-container img {
   width: 16.66%; 
   height: auto;
-  max-width: 100%;
+  max-width: 90%;
   max-height: 100%;
 }
 
