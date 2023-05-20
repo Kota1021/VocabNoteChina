@@ -26,6 +26,7 @@
 
 a {
   display: block; /* リンクをブロック要素に変更 */
+  justify-content: center; /* 画像を水平方向に中央寄せ */
   text-align: center;
   margin: 10px 0;
   max-width: 70%;
